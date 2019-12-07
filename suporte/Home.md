@@ -1,8 +1,8 @@
 ---
-title: Home Suporte
-description: Página inicial do suporte
+title: Roteadores
+description: Os roteadores mais usados de Minas Gerais! 
 published: true
-date: 2019-12-07T18:54:05.295Z
+date: 2019-12-07T18:54:54.384Z
 tags: Suporte
 ---
 
