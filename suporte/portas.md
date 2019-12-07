@@ -2,7 +2,7 @@
 title: Redirecionamento de Portas
 description: Eu quero que você abre as portas do meu roteador, tenho um PSone.
 published: true
-date: 2019-12-07T19:46:31.093Z
+date: 2019-12-07T19:46:33.343Z
 tags: 
 ---
 
