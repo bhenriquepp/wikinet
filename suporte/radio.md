@@ -2,7 +2,7 @@
 title: Rádios
 description: É só chover que cai!
 published: true
-date: 2019-12-07T19:39:11.481Z
+date: 2019-12-07T20:25:28.417Z
 tags: 
 ---
 
