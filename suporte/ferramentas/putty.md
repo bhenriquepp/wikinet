@@ -2,7 +2,7 @@
 title: Putty
 description: Conecte-se a um equipamento sem interface gráfica de forma rápida!
 published: true
-date: 2020-02-04T21:40:52.785Z
+date: 2020-02-04T21:40:57.114Z
 tags: ferramentas, putty
 ---
 
