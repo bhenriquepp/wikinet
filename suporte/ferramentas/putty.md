@@ -2,11 +2,11 @@
 title: Putty
 description: Conecte-se a um equipamento sem interface gráfica de forma rápida!
 published: true
-date: 2020-02-04T21:33:52.394Z
+date: 2020-02-04T21:40:52.785Z
 tags: ferramentas, putty
 ---
 
-# PuTTY
+
 
 
 > O PuTTy é um software de emulação de terminal grátis e de código livre. Suporta SSH, destinado a suportar o acesso remoto a servidores via shell seguro e a construção de "túneis" cifrados entre servidores. Também suporta conexão direta (raw), telnet, rlogin e por porta serial.
